@@ -1,7 +1,7 @@
 {
-  "name": "react-native-dialog-selectlist",
+  "name": "react-native-select-dialog",
   "version": "1.0.0",
-  "description": "a demo for react-native-dialog-selectlist component",
+  "description": "a demo for react-native-select-dialog component",
   "main": "index.js",
   "directories": {
     "example": "example"
