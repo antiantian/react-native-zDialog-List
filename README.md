@@ -6,6 +6,8 @@
 - Highly customizable.(You can change the style you want)
 - Controllable with API by code. (show/hide/valueChange)
 - Flexible change of content
+#Installation
+-npm i react-native-select-dialog --save
 ## Usage
 Import this module:
 --javascript
@@ -60,7 +62,8 @@ import SelectDialog from 'react-native-zDialogList';
 	innersWidth={150}
 	innersHeight={200}					  
      />
-
+## Demo
+<img src="https://github.com/antiantian/react-native-zDialog-List.git/show.gif?raw=true" width = "160" height = "auto" alt="Demo 1"/>
 ### Customization
 - 'animateType': Change pop up block display animation ('fade','normal','slide')
        - The animationType prop controls how the modal animates.
