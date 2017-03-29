@@ -1,7 +1,7 @@
 {
   "name": "react-native-dialog-selectlist",
   "version": "1.0.0",
-  "description": "\"a demo for react-native-dialog-selectlist component\"",
+  "description": "a demo for react-native-dialog-selectlist component",
   "main": "index.js",
   "directories": {
     "example": "example"
@@ -14,19 +14,19 @@
     "url": "git+https://github.com/antiantian/react-native-zDialog-List.git"
   },
   "keywords": [
-    "\"react\"",
-    "\"react-native\"",
-    "\"react-component\"",
-    "\"android\"",
-    "\"ios\"",
-    "\"modal\"",
-    "\"pop-up\"",
-    "\"select\"",
-    "\"option\""
+    "react",
+    "react-native",
+    "react-component",
+    "android",
+    "ios",
+    "modal",
+    "pop-up",
+    "select",
+    "option"
   ],
   "author": {
     "name": "anyuzz",
-    "email": "1366969408@qq.com",
+    "email": "1366969408@qq.com"
   },
   "license": "MIT",
   "bugs": {
