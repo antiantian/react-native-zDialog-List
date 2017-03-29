@@ -6,7 +6,7 @@
 - Highly customizable.(You can change the style you want)
 - Controllable with API by code. (show/hide/valueChange)
 - Flexible change of content
-#Installation
+# Installation
 - npm i react-native-select-dialog --save
 
 # Usage
