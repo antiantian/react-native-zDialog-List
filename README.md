@@ -174,27 +174,26 @@ export default class Dialogs extends Component{
 # You can view the full instance in folder example   
 ## Demo
 <img src="https://github.com/antiantian/react-native-zDialog-List/blob/master/show.gif" width = "400" height = "auto" alt="Demo 1"/>
-### Customization
-- 'animateType': Change pop up block display animation ('fade','normal','slide')
-       - The animationType prop controls how the modal animates.
-            - slide: slides in from the bottom
-            -fade: fades into view
-            -none: appears without an animation
-	    
+
+## Customization
+- 'titles': List title
+- 'datas' : List object
+- 'animateType': Change pop up block display animation ('fade','normal','slide')	    
 - 'positionStyle': Change the style of the pop-up block header
 - 'renderRow':  Custom middle content
 - 'innersWidth': Change the width of the pop-up block
 - 'innersHeight':Change the height of the pop-up block
 
 ### Methods
-Method            |  Description
+ Method           |   Description
 ----------------- |  -----------
 `show()`          |  Show the pop-up block   （ use the react-native Modal component  to always be at the top）
 `hide()`          |  Hide the pop-up block
 
-###props
+### props
+
 `valueChange`     |  'valueChange={this.changBank.bind(this)}'  Returns the currently selected object and index
-`renderRow`       |  'renderRow={this.defineList.bind(this)}'  
+`renderRow`       |  'renderRow={this.defineList.bind(this)}'   define yourself code for selectlist
 ```
 		   defineList(rowData,rowID,highlighted) {//object,index,selected:boolen
 		    let icon = highlighted ? require('./images/selected.png') : require('./images/select.png');
