@@ -10,7 +10,7 @@ import {
 	Image,
 } from 'react-native'
 import Demo from './index';
-import SelectDialog from 'react-native-zDialogList';
+import SelectDialog from 'react-native-select-dialog';
 var Dimensions = require('Dimensions');
 var width=Dimensions.get('window').width;
 var height=Dimensions.get('window').height;
