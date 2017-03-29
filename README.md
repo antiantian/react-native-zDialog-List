@@ -9,7 +9,7 @@
 #Installation
 - npm i react-native-select-dialog --save
 
-#Usage
+# Usage
 ## Import this module:
 - import SelectDialog from 'react-native-select-dialog';
 
@@ -81,7 +81,7 @@
 		    );
 		  }		 
 ```
-    
+# You can view the full instance in folder example   
 ## Demo
 <img src="https://github.com/antiantian/react-native-zDialog-List/blob/master/show.gif" width = "400" height = "auto" alt="Demo 1"/>
 ### Customization
