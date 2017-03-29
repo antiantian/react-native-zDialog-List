@@ -63,7 +63,7 @@ import SelectDialog from 'react-native-zDialogList';
 	innersHeight={200}					  
      />
 ## Demo
-<img src="https://github.com/antiantian/react-native-zDialog-List.git/show.gif?raw=true" width = "160" height = "auto" alt="Demo 1"/>
+<img src="react-native-zDialog-List/show.gif" width = "160" height = "auto" alt="Demo 1"/>
 ### Customization
 - 'animateType': Change pop up block display animation ('fade','normal','slide')
        - The animationType prop controls how the modal animates.
