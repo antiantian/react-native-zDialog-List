@@ -1,37 +1,99 @@
 {
-  "name": "react-native-dialogs-master",
-  "version": "1.0.3",
-  "description": "This is a combination of the pop-up box confirmation react-native components for Android and Ios,you can customize the style and parameters for the component",
-  "main": "index.js",
+  "_args": [
+    [
+      {
+        "raw": "react-native-select-dialog@^1.0.0",
+        "scope": null,
+        "escapedName": "react-native-select-dialog",
+        "name": "react-native-select-dialog",
+        "rawSpec": "^1.0.0",
+        "spec": ">=1.0.0 <2.0.0",
+        "type": "range"
+      },
+      "C:\\Users\\Administrator\\AwesomeProject"
+    ]
+  ],
+  "_from": "react-native-select-dialog@>=1.0.0 <2.0.0",
+  "_id": "react-native-select-dialog@1.2.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-select-dialog",
+  "_nodeVersion": "4.4.3",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/react-native-select-dialog-1.2.0.tgz_1490755863641_0.09975635632872581"
+  },
+  "_npmUser": {
+    "name": "anyutz",
+    "email": "1366969408@qq.com"
+  },
+  "_npmVersion": "3.10.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-select-dialog@^1.0.0",
+    "scope": null,
+    "escapedName": "react-native-select-dialog",
+    "name": "react-native-select-dialog",
+    "rawSpec": "^1.0.0",
+    "spec": ">=1.0.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-select-dialog/-/react-native-select-dialog-1.2.0.tgz",
+  "_shasum": "c8564374c8429ac6ccf1228de2c7c93678324083",
+  "_shrinkwrap": null,
+  "_spec": "react-native-select-dialog@^1.0.0",
+  "_where": "C:\\Users\\Administrator\\AwesomeProject",
+  "author": {
+    "name": "anyuzz",
+    "email": "1366969408@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/antiantian/react-native-zDialog-List/issues"
+  },
+  "dependencies": {},
+  "description": "a demo for react-native-select-dialog component",
+  "devDependencies": {},
   "directories": {
     "example": "example"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "dist": {
+    "shasum": "c8564374c8429ac6ccf1228de2c7c93678324083",
+    "tarball": "https://registry.npmjs.org/react-native-select-dialog/-/react-native-select-dialog-1.2.0.tgz"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/antiantian/CommonDialog.git"
-  },
+  "gitHead": "84f0db1c99a7c6991fdfde2ce183a3d7ce4642ef",
+  "homepage": "https://github.com/antiantian/react-native-zDialog-List#readme",
   "keywords": [
     "react",
     "react-native",
-    "popups",
-    "alert",
-    "confrim",
-    "autofade",
-    "dialogs",
-    "pop-up",
-    "box",
-    "confirmation",
+    "react-component",
+    "android",
+    "ios",
     "modal",
-    "customize",
-    "component"
+    "pop-up",
+    "select",
+    "option"
   ],
-  "author": "anyutz",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/antiantian/CommonDialog/issues"
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "anyutz",
+      "email": "1366969408@qq.com"
+    }
+  ],
+  "name": "react-native-select-dialog",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antiantian/react-native-zDialog-List.git"
   },
-  "homepage": "https://github.com/antiantian/CommonDialog#readme"
+  "scripts": {
+    "test": "make test"
+  },
+  "version": "1.2.0"
 }
