@@ -1,36 +1,37 @@
 {
-  "name": "react-native-select-dialog",
-  "version": "1.0.0",
-  "description": "a demo for react-native-select-dialog component",
+  "name": "react-native-dialogs-master",
+  "version": "1.0.3",
+  "description": "This is a combination of the pop-up box confirmation react-native components for Android and Ios,you can customize the style and parameters for the component",
   "main": "index.js",
   "directories": {
     "example": "example"
   },
   "scripts": {
-    "test": "make test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antiantian/react-native-zDialog-List.git"
+    "url": "git+https://github.com/antiantian/CommonDialog.git"
   },
   "keywords": [
     "react",
     "react-native",
-    "react-component",
-    "android",
-    "ios",
-    "modal",
+    "popups",
+    "alert",
+    "confrim",
+    "autofade",
+    "dialogs",
     "pop-up",
-    "select",
-    "option"
+    "box",
+    "confirmation",
+    "modal",
+    "customize",
+    "component"
   ],
-  "author": {
-    "name": "anyutz",
-    "email": "1366969408@qq.com"
-  },
+  "author": "anyutz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/antiantian/react-native-zDialog-List/issues"
+    "url": "https://github.com/antiantian/CommonDialog/issues"
   },
-  "homepage": "https://github.com/antiantian/react-native-zDialog-List#readme"
+  "homepage": "https://github.com/antiantian/CommonDialog#readme"
 }
